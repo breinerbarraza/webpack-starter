@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    background-color: #dddd;
+
+}
+
+img {
+    width: 250px;
+    padding: 20px;
+}
